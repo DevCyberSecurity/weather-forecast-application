@@ -1,4 +1,4 @@
-Django==4.2
+Django==5.2.17
 djangorestframework==3.14.0
 matplotlib==3.7.1
 pandas==2.0.2
