@@ -1,5 +1,5 @@
 Django==4.2
-djangorestframework==3.14.0
+djangorestframework==3.18.2
 matplotlib==3.7.1
 pandas==2.0.2
 numpy==1.26.4
